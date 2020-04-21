@@ -1,0 +1,6 @@
+E:\Documentos\Semana4N\Entity\bin\Debug\Entity.dll
+E:\Documentos\Semana4N\Entity\bin\Debug\Entity.pdb
+E:\Documentos\Semana4N\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\Documentos\Semana4N\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\Documentos\Semana4N\Entity\obj\Debug\Entity.dll
+E:\Documentos\Semana4N\Entity\obj\Debug\Entity.pdb
